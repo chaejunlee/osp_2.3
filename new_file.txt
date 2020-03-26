@@ -1,3 +1,5 @@
 new file
 new_file : 1st modified on local
 new_file : 2nd modified on remote
+
+branch_2 : 1st modified
